@@ -1,0 +1,7 @@
+{
+	"programmingLanguage": [ "Java", "Swift", "C", "C++" ],
+	"frontEnd": [ "JavaScript" , "jQuery", "AJAX" ],
+	"portalframeworks": [ "Liferay" , "Apache web server", "Spring", "Hibernate", "RESTFul Services"],
+	"projectManagement": [ "BugZilla", "JIRA", "GitHub", "eGit", "BitBucket", "SourceTree"],
+	"os": [ "Ubuntu", "Windows", "Mac OS x", "iOS","Android"]
+}

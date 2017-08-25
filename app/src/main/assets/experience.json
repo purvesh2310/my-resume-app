@@ -1,0 +1,20 @@
+[
+	{
+		"companyName": "Innovennta Technologies Pvt. Ltd.",
+		"location": "Ahmedabad, India",
+		"startYear": "2013",
+		"endYear": "2014",
+		"position": "Software Development Intern",
+		"description": "Involved in development of web based project for the car pooling company. Worked on testing the functionalities of the web portal.",
+		"companyLogo": "innovennta"
+	},
+	{
+		"companyName": "Surekha Technologies",
+		"location": "Ahmedabad, India",
+		"startYear": "2014",
+		"endYear": "2016",
+		"position": "Software Engineer",
+		"description": "Involved in all phases of software development including requirement gathering, analysis, development, testing and deployment. Involved in client communication during all the phases. Worked extensively on Liferay (6.x) portal development and administration. Developed JSR 168 / 286 compliant portlets. Developed Liferay plugins for customization and worked with Liferay Mobile SDK.",
+		"companyLogo": "st"
+	}
+]

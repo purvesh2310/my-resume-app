@@ -1,0 +1,26 @@
+[
+	{
+	"name": "San Jose State University",
+	"startYear": "2017",
+	"endYear": "2018",
+	"major": "Software Engineering",
+	"grade": "N/A",
+	"image": "sjsu"
+	},
+	{
+	"name": "Vishwakarma Government Engineering College",
+	"startYear": "2010",
+	"endYear": "2014",
+	"major": "Computer Engineering",
+	"grade": "B+",
+	"image": "vgec"
+	},
+	{
+	"name": "Sheth C N Vidyalaya",
+	"startYear": "2002",
+	"endYear": "2010",
+	"major": "Science Stream",
+	"grade": "A+",
+	"image": "cn"
+	}
+]

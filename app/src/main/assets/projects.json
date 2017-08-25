@@ -1,0 +1,26 @@
+[
+	{
+	"name": "JailMail",
+	"type": "Java based Web Application",
+	"description":"It is a Java based server for the android and iOS application for sending photos and letters to the inmates in Jail. Server is built using Spring and Hibernate framework and MySQL is used as a database. Communication is done using REST APIs.",
+	"duration":"12 months",
+	"role":"Development, Testing",
+	"image":"jailmail"
+	},
+	{
+	"name": "MySmartSpot",
+	"type": "iOS application for iPhone/iPad",
+	"description":"This is a mobile application which provides its users live status of the parking lot's occupied and open slots on the graphical interface. User can see the nearby parking lot from the map and view available parking slots in a lot in real time.",
+	"duration":"2 months",
+	"role":"Development",
+	"image":"mysmartspot"
+	},
+	{
+	"name": "Scholastic",
+	"type": "Liferay portal based web application",
+	"description":"This is a web application based on the open source portal Liferay for the schools where students, teachers and parents can interact with each other with beautilful user interface. This web application contains number of interactive functionalities like school timeline, chatting, reminder, todo, calendar etc.",
+	"duration":"15 months",
+	"role":"Requirement Gathering, Development",
+	"image":"scholastic"
+	}
+]
